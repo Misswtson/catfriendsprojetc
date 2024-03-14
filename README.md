@@ -1,4 +1,4 @@
-# robofriends
+# catfriends
 Tutorial for React
 To run the project:
 
